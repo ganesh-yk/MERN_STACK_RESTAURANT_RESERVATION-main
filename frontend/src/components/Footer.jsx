@@ -17,6 +17,9 @@ const Footer = () => {
           <div className="right">
             <p>All Rights Reserved By GANESH YK.</p>
           </div>
+          <div>
+            
+          </div>
         </div>
       </div>
     </footer>
